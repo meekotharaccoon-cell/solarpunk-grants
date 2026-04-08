@@ -1,15 +1,24 @@
-# Funded Projects
+# FUNDED Grants
 
-*Nothing yet — pool is currently $0. First sale from Gaza Rose Gallery starts filling it.*
+> Auto-generated transparency report. Updated by the SolarPunk Grant Agent.
 
----
+**Pool Balance:** $0.00
 
-When this list has entries it will look like:
+## Disbursements
 
-| Project | Awarded | Completed | Impact |
-|---------|---------|-----------|--------|
-| Example | $50 | Yes | 12 people fed |
+| Date | Recipient | Amount | Proposal | Reason |
+|------|-----------|--------|----------|--------|
 
----
+## Contributions
 
-Every funded project posts a completion Issue. No formal report. Just: what happened, what exists now that didn't before.
+| Date | Donor | Amount | Note |
+|------|-------|--------|------|
+
+## Summary
+
+- **Funded proposals:** 0
+- **Rejected proposals:** 0
+- **Active votes:** 0
+- **Total contributions:** $0.00
+- **Total disbursed:** $0.00
+- **Last updated:** 2026-04-08 12:20 UTC
