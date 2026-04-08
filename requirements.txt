@@ -1,0 +1,7 @@
+# SolarPunk Grant Pool Agent
+# No external dependencies -- uses only Python stdlib
+# (urllib, xml.etree, json, hashlib, pathlib)
+#
+# If you add features that need external packages, list them here:
+# requests>=2.31.0
+# feedparser>=6.0.0
